@@ -1,0 +1,10 @@
+^validation$
+^battery$
+^README\.Rmd$
+^LICENSE\.md$
+^judgeaudit\.Rproj$
+^\.Rproj\.user$
+^\.github$
+^doc$
+^Meta$
+.*\.tar\.gz$

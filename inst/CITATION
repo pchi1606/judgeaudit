@@ -1,0 +1,14 @@
+citHeader("To cite judgeaudit in publications use:")
+
+bibentry(
+  bibtype  = "Manual",
+  title    = "judgeaudit: Design and Analysis of Human
+              Gold-Standard Audits of AI Judges",
+  author   = person("Prabhu", "Rangaraju"),
+  year     = "2026",
+  note     = "R package version 0.1.0",
+  textVersion = paste(
+    "Rangaraju, P. (2026). judgeaudit: Design and Analysis of",
+    "Human Gold-Standard Audits of AI Judges. R package version",
+    "0.1.0.")
+)
